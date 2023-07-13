@@ -10,6 +10,8 @@ header {
     display: flex;
     justify-content: space-around;
     flex-direction: row;
+    text-align: center;
+    font-size: 25px;
 }
 .container {
     display: flex;
