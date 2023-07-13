@@ -21,10 +21,15 @@ header {
 .logo {
     height: 90px;
     width: 200px;
+    border-radius: 50%;
+}
+.logo img {
+    height: 60px;
+    width: 50px;
 }
 /* 
     margin-top: 0px;
-
+border-radius: 50%;
 }
 .lognav {
   display: flex;
@@ -35,11 +40,7 @@ height: 90px;
 width: 200px;
 border-radius: 50%;
 }
-.logo img {
-height: 60px;
-width: 50px;
-object-fit: contain ;
-}
+
 
 .navbar { 
 display: flex;
