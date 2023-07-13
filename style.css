@@ -34,31 +34,13 @@ header {
     object-fit: contain ;
     
 }
-/*     object-fit: contain ;
-    margin-top: 0px;
-border-radius: 50%;
-}
-.lognav {
-  display: flex;
-  flex-direction: row;
-}
-.logo {
-height: 90px;
-width: 200px;
-border-radius: 50%;
-}
-
-
-.navbar { 
-display: flex;
-justify-content: space-around;
-flex-direction: row;
-text-align: center;
-font-size: 25px; 
-cursor: pointer;
-
-}
 nav {
-margin-right: 20px;
-cursor: pointer;
+    margin-right: 20px;
+}
+    /* cursor: pointer;
+ }
+h5 {
+   padding: 0%;
+   margin-bottom: 3%;
+   color: black;
 } */
