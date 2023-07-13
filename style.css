@@ -13,4 +13,41 @@ header {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    font-family: sans-serifs;
+    background-color: #FEFEFE;  
+    height: 70px;
+    margin-top: 0px;
+
 }
+/* 
+    margin-top: 0px;
+
+}
+.lognav {
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+height: 90px;
+width: 200px;
+border-radius: 50%;
+}
+.logo img {
+height: 60px;
+width: 50px;
+object-fit: contain ;
+}
+
+.navbar { 
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+text-align: center;
+font-size: 25px; 
+cursor: pointer;
+
+}
+nav {
+margin-right: 20px;
+cursor: pointer;
+} */
