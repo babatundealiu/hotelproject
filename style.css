@@ -12,6 +12,7 @@ header {
     flex-direction: row;
     text-align: center;
     font-size: 25px;
+    cursor: pointer;
 }
 .container {
     display: flex;
