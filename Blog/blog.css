@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    /* background-color: red; */
+    height: 70px;
+    width: 100%;
+}
+
+
+.navigations{
+    display: flex;
+}
+
+nav{
+    display: flex;
+    margin-right: 25px;
+}
