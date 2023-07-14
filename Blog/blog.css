@@ -5,4 +5,15 @@ body{
 header{
     display: flex;
     justify-content: space-around;
+    background-color: red;
+    height: 70px;
+}
+
+
+.navigations{
+    display: flex;
+}
+nav{
+    display: flex;
+    margin-right: 25px;
 }
